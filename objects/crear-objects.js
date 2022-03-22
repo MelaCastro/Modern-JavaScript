@@ -26,7 +26,7 @@ const product = {
  delete product.image;
 
 // acceder a los valores y asignarlos a variables
- const name = product.name;
+//  const name = product.name;
 //ES6 destructuring
  const {name} = product;
  const {price, avaliable} = product;
